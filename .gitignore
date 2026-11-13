@@ -1,0 +1,8 @@
+# 首次启动时从原仓库下载、在本机生成，不随仓库分发
+.cache/
+data/
+web/vendor/
+
+__pycache__/
+*.pyc
+.DS_Store
